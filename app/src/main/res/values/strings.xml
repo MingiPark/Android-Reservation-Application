@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">itshair</string>
+    <string name="app_name">It\'s hair</string>
+    <string name="pw">PW를 입력해주세요.</string>
+    <string name="id">ID를 입력해주세요.</string>
+    <string name="signup">회원 가입</string>
+    <string name="login">로그인</string>
 </resources>
